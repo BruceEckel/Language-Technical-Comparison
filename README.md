@@ -3,7 +3,7 @@ Language Technical Comparison
 
 HTML source code to use as a template for multiple language evaluations.
 
-View here: http://bruceeckel.github.io/Language-Evaluation-Checklist/
+View here: http://bruceeckel.github.io/Language-Technical-Comparison/
 
 -   Although the checkboxes intentionally restrict the results, the set of ORed
     (**\|**) options are simply meant to frame the descriptions and make it
@@ -11,7 +11,7 @@ View here: http://bruceeckel.github.io/Language-Evaluation-Checklist/
     options or to use them as a jumping-off point for a written description.
 
 Suggestions welcome via [issue
-report](<https://github.com/BruceEckel/Language-Evaluation-Checklist/issues>) or
+report](<https://github.com/BruceEckel/Language-Technical-Comparison/issues>) or
 pull request.
 
 Language Technical Comparison by Bruce Eckel is licensed under a Creative
